@@ -1,2 +1,1 @@
-# PreCourse-Henrry
-prueba mod 2
+este proyecto es una prueba
